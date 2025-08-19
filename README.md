@@ -1,23 +1,29 @@
 # ASAP_JOBS
 
-ASAP JOBS was built with Vite.js, TypeScript, Icons, Framer-motion, Tailwind CSS, Gemini and GSAP.
-I used Canva for design, video editing, QRcodes and 3D assets. I also used ElevenLabs for AI voice.
-I use HubSpot CRM for scheduling, Google Sheets, and AI chat flow for client service.
-I use Indeed, LinkedIn, Zoom and Venmo for marketing, Meetings and payments.
-Hosting: Netlify.
+ASAP JOBS is a third-party online referral and job-training agency that helps high-performing job seekers land a career in today's extremely competitive market. We leverage our vast network and in-person connections to acquire new and better jobs for our clients.
 
-What is ASAPJOBS:
+What We Do
+We help job seekers by utilizing references and referrals to give them a significant advantage. Instead of being just another application in a pile of résumés, our clients get direct access to hiring managers and employees.
 
-ASAPJOBS is a third-party online referral and job-training agency that leverages references and referrals to assist high-performing job seekers in this extremely competitive job market to help land a career.
-Using our vast network tools like LinkedIn and in-person connections, we can leverage our skills to acquire new and better job.
+How It Works
+Initial Contact: Clients find us through various access points. When they're ready to get started, they schedule a meeting with one of our ASAP Talent Agents.
 
-How does it work:
+Career Consultation: The Talent Agent meets with the client to understand their needs and determine the best career path.
 
-Clients will enter the website through our many access points. When ready to get started, the client will fill out the best time for a meeting with an ASAP Talent Agent.
-The Talent Agent will have a meeting with the client to verify their needs and determine what career path would be right for the job seeker.
-The Talent Agent will either send in a referral for the client to an already established company, or the Talent Agent will navigate LinkedIn, Facebook, TikTok, or Instagram to make contact with a hiring manager or employees to give the client a referral and put the client on the top of the résumé list.
+Referral & Placement: The Talent Agent will then either submit a referral to a company in our established network or reach out to hiring managers and employees on platforms like LinkedIn, Facebook, TikTok, and Instagram. This ensures the client's application gets priority and stands out from the rest.
 
-Early achievements:
+Early Achievements
+In just the first three days, we have already accumulated 10 clients solely from a single Facebook post, without using LinkedIn or Indeed yet.
 
-Third day since the agency was posted, and we've already accumulated 10 clients/job seekers.
-Not using LinkedIn or Indeed (yet) just a single facebook post.
+Tech Stack & Tools
+Frontend: Vite.js, TypeScript, Icons, Framer-motion, Tailwind CSS, GSAP
+
+AI: Gemini, ElevenLabs (for AI voice)
+
+Design & Media: Canva (for design, video editing, QR codes, and 3D assets)
+
+Business Operations: HubSpot CRM (scheduling), Google Sheets, AI chat flow, Zoom
+
+Marketing & Payments: Indeed, LinkedIn, Zoom, Venmo
+
+Hosting: Netlify
