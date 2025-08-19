@@ -17,7 +17,7 @@ Clients will enter the website through our many access points. When ready to get
 The Talent Agent will have a meeting with the client to verify their needs and determine what career path would be right for the job seeker.
 The Talent Agent will either send in a referral for the client to an already established company, or the Talent Agent will navigate LinkedIn, Facebook, TikTok, or Instagram to make contact with a hiring manager or employees to give the client a referral and put the client on the top of the résumé list.
 
-Early achivmets:
+Early achievements:
 
 Third day since the agency was posted, and we've already accumulated 10 clients/job seekers.
 Not using LinkedIn or Indeed (yet) just a single facebook post.
