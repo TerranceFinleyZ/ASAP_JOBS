@@ -1,0 +1,56 @@
+
+.Mass {
+    font-size: 337px;
+    margin-right: 0px;
+    text-shadow: 1px 1px 0 rgb(135, 104, 221), 1px 2px 0 rgb(135, 104, 221), 1px 3px 0 rgb(135, 104, 221), 1px 4px 0 rgb(135, 104, 221),
+    1px 5px 0 rgb(135, 104, 221), 1px 6px 0 rgb(135, 104, 221), 1px 7px 0 rgb(135, 104, 221), 11px 18px 0 rgb(135, 104, 221),
+    15px 23px 05px black;
+     margin-bottom: 0 !important;
+}
+
+.Fomo {
+   margin: 0 !important; 
+   font-size: 35px
+}
+
+.Cosmic {
+ justify-items: center;
+ align-items: center;
+ font-size: 37px
+}
+
+.Cosmic:hover {
+    background-color: #eb0b0b;
+  transform: scale(1.05);
+}
+
+.deskker {
+  left: 375px;
+}
+
+
+
+@media (max-width: 767px) {
+  .Mass {
+    font-size: 65px;
+    text-shadow: none;
+  }
+  .Fomo {
+    font-size: 17px;
+  }
+  .Cosmic {
+    font-size: 27px
+  }
+  .Draggo {
+    width: 190px;
+  }
+  .deskker {
+  display: none;
+}
+}
+@media (max-width: 780px) {
+    .min-h-screen{
+        min-height: 70vh;
+    }
+}
+
