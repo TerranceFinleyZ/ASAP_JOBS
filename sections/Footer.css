@@ -1,0 +1,53 @@
+.Abut{
+     background: #040440;
+    background: linear-gradient(0deg,rgba(4, 4, 64, 1) 5%, rgb(20, 0, 255) 100%);
+}
+.Greed{
+    padding-top: 205px;
+    margin-left: 150px;
+}
+.Lord {
+ justify-items: center;
+ align-items: center;
+ font-size: 37px;
+ margin-left: 649px;
+ 
+}
+.Lord:hover {
+    background-color: #fff;
+  transform: scale(1.05);
+}
+.Monoot {
+    margin-left: 800px;
+    top: 125px;
+}
+
+@media (max-width: 786px) {
+    .Greed {
+        padding-top: 150px;
+        margin-left: 0px;
+         
+        
+    }
+    .Lamo{
+        font-size: 55px;
+        margin-left: 75px;
+         
+        
+    }
+    .Mech{
+        font-size: 15px;
+        padding-bottom: 15px;
+         align-items: center;
+         
+    }
+    .Lord{
+        font-size: 27px;
+        margin-bottom: 5px;
+        
+        margin-left: 2px;
+    }
+    .Monoot {
+        display: none;
+    }
+}

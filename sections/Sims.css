@@ -1,0 +1,20 @@
+.Matrix{
+     background: #040440;
+    background: linear-gradient(0deg, rgb(20, 0, 255) 100%);
+}
+
+.Rolo{
+    font-size: 100px;
+    margin-top: 150px;
+    text-decoration: underline;
+    font-weight: 600;
+    font-style: italic;
+    color: #fff;
+}
+
+@media (max-width: 789px){
+    .Rolo{
+        font-size: 50px;
+        margin-top: 150px;
+    }
+}

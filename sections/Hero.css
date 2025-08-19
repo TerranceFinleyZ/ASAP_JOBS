@@ -1,0 +1,14 @@
+.Zomo {
+     background: #040440;
+    background: linear-gradient(0deg,#000000 5%, rgb(4, 4, 64, 1) 100%);
+}
+.Lennit {
+    margin-top: 316px;
+}
+@media (max-width: 767px){
+    .Lennit {
+    margin-top: 116px;
+    width: 155px;
+    right: 0px;
+    }
+}

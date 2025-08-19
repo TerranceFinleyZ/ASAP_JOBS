@@ -1,0 +1,9 @@
+.Lastf {
+    padding-top: 250px;
+}
+
+@media (max-width:747px){
+    .Lastf{
+        padding-top: 220px;
+    }
+}

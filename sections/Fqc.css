@@ -1,0 +1,39 @@
+.Vomo {
+     background: #040440;
+    background: linear-gradient(0deg,#1d05fc 5%, rgb(0, 0, 0) 100%);
+}
+
+.Texture {
+    font-size: 100px;
+    margin-top: 280px;
+    text-decoration: underline;
+    font-weight: 600;
+    font-style: italic;
+    color: #fff;
+}
+.Boba {
+    font-size: 45px;
+    color: aliceblue;
+    
+    margin-top: 225px;
+    font-weight: bold;
+    font-style: italic;
+}
+.Billz {
+    font-size: 20px;
+    color: aliceblue;
+}
+
+@media (max-width: 767px) {
+    .Texture{
+        font-size: 50px;
+        margin-left: 15px;
+        margin-top: 150px;
+    }
+    .Boba {
+        font-size: 20px;
+        
+        margin-top: 15px;
+    }
+    
+}

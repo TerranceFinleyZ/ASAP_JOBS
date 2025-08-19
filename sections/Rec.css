@@ -1,0 +1,33 @@
+.Romo {
+    background: black;
+}
+
+.Lane {
+    font-size: 200px;
+    margin-top: 100px;
+    text-decoration: underline;
+    font-weight: 600;
+    font-style: italic;
+    color: #ff66ff;
+    text-shadow: 0 0 18px rgba(216, 64, 140, 1.7), 0 0 15px rgba(211, 88, 149, 1.4);
+}
+.Phoness{
+    margin-left: 900px;
+    margin-top: 366px 
+}
+
+
+
+@media (max-width: 767px) {
+    .Lane {
+        font-size: 50px;
+        margin-left: 15px;
+    }
+    .Max {
+        font-size: 30px;
+        align-items: center;
+    }
+    .Phoness{
+        display: none; 
+    }
+}
