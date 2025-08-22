@@ -51,3 +51,4 @@ https://github.com/user-attachments/assets/6a4e5f11-77b2-40e0-b7df-606f87eb0780
 Business card Marketing.
 Paid expert laminator for design. 
 
+<img width="1080" height="1080" alt="Untitled design (17)" src="https://github.com/user-attachments/assets/c8689f30-a963-4474-bcf4-32038bf4045d" />
