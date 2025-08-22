@@ -38,7 +38,7 @@ Marketing design, using Hubspot & Canva.
 
 https://github.com/user-attachments/assets/73795d73-bac0-49db-8358-0f3a20783b57
 
-QRcode marketing for online Business post.
+QRcode Business post for online marketing.
 <img width="1080" height="1080" alt="JOBS" src="https://github.com/user-attachments/assets/47cff320-40b5-43c9-ae30-ff5e09e57cae" />
 
 Headshot for LinkedIn.
