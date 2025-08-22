@@ -35,6 +35,7 @@ Marketing & Payments: Indeed, LinkedIn, Zoom, Venmo
 Hosting: Netlify
 
 Marketing design, using Hubspot & Canva. 
+
 https://github.com/user-attachments/assets/73795d73-bac0-49db-8358-0f3a20783b57
 
 QRcode marketing for online Business post.
@@ -43,9 +44,10 @@ QRcode marketing for online Business post.
 Headshot for LinkedIn.
 <img width="1080" height="1080" alt="Untitled design (15)" src="https://github.com/user-attachments/assets/0757d465-0e68-479c-8c38-decb8be7dbaa" />
 
-Soical media Marketing post. 
+social media Marketing post. 
+
 https://github.com/user-attachments/assets/6a4e5f11-77b2-40e0-b7df-606f87eb0780
 
 Business card Marketing.
-Paid expert laminator for design (handouts). 
+Paid expert laminator for design. 
 ![744ac649-6511-485d-8c01-657e4e099342](https://github.com/user-attachments/assets/d1a227ec-52fb-436e-a210-49315c17db4f)
