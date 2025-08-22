@@ -33,3 +33,13 @@ Business Operations: HubSpot CRM (scheduling), Google Sheets, AI chat flow, Zoom
 Marketing & Payments: Indeed, LinkedIn, Zoom, Venmo
 
 Hosting: Netlify
+
+
+https://github.com/user-attachments/assets/73795d73-bac0-49db-8358-0f3a20783b57
+
+<img width="1080" height="1080" alt="JOBS" src="https://github.com/user-attachments/assets/47cff320-40b5-43c9-ae30-ff5e09e57cae" />
+
+<img width="1080" height="1080" alt="Untitled design (15)" src="https://github.com/user-attachments/assets/0757d465-0e68-479c-8c38-decb8be7dbaa" />
+
+https://github.com/user-attachments/assets/6a4e5f11-77b2-40e0-b7df-606f87eb0780
+
