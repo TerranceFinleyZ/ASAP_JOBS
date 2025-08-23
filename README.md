@@ -52,3 +52,7 @@ Business card Marketing.
 Paid expert laminator for design. 
 
 <img width="1080" height="1080" alt="Untitled design (17)" src="https://github.com/user-attachments/assets/c8689f30-a963-4474-bcf4-32038bf4045d" />
+
+Talent Acquisition Specialist 
+
+https://www.linkedin.com/in/asap-jobs-049b5a37a/
