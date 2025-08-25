@@ -56,3 +56,7 @@ Paid expert laminator for design.
 Talent Acquisition Specialist 
 
 https://www.linkedin.com/in/asap-jobs-049b5a37a/
+
+4 Likes and 6 shares no payed ads.
+
+<img width="1080" height="1080" alt="Untitled design (18)" src="https://github.com/user-attachments/assets/58a2581b-10ce-477c-a6e7-5749294114e6" />
